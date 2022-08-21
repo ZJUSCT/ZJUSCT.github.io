@@ -54,7 +54,7 @@ highlight_name: true
 We are students from Zhejiang University Supercomputing Team (ZJUSCT), affiliated to College of Computer Science and Technology,
 ZJU.
 
-We participate in domestic and international SCC competitions, and provides some public services in ZJU including [ZJU Mirror](https://mirror.zju.edu.cn/) and [ZJU Git](https://git.zju.edu.cn/). We also provide the HPC101 summer course for freshmen in ZJU.
+We participate in domestic and international SCC competitions, and provides some public services in ZJU including [ZJU Mirror](https://mirror.zju.edu.cn/) and [ZJU Git](https://git.zju.edu.cn/). We also provide the [HPC101](https://www.zjusct.io/HPC101-Labs-2022/) summer course for freshmen in ZJU.
 
 <!-- ## News -->
 
