@@ -6,7 +6,7 @@ title: ZJUSCT
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Zhejiang University Supercomputing Team
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,13 @@ organizations:
     url: https://www.zju.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - High Performance Computing
+  - Hetrogeneous Computing
+  - MLSys
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -55,8 +54,16 @@ highlight_name: true
 We are students from Zhejiang University Supercomputing Team (ZJUSCT), affiliated to College of Computer Science and Technology,
 ZJU.
 
-## News
+We participate in domestic and international SCC competitions, and provides some public services in ZJU including [ZJU Mirror](https://mirror.zju.edu.cn/) and [ZJU Git](https://git.zju.edu.cn/). We also provide the HPC101 summer course for freshmen in ZJU.
+
+<!-- ## News -->
 
 ## Advisors
 
+- Jianhai Chen
+- Zeke Wang
+- Shuibing He
+
 ## Members & Allumnis
+
+Full list [here](/post/allumnis/).

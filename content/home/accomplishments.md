@@ -24,26 +24,54 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-05-25'
     description: ''
     # organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
+    # organization_url: https://www.coursera.org
+    title: ISC 22, 5th Place
   - date_end: ''
-    date_start: '2021-01-01'
-    # description: Formulated informed blockchain models, hypotheses, and use cases.
-    # organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - date_end: ''
-    date_start: '2020-07-01'
+    date_start: '2022-03-25'
     description: ''
-    # organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    # organization: Coursera
+    # organization_url: https://www.coursera.org
+    title: ASC 22 Preliminary Round, 1st Place
+    # url: ''
+  - date_end: ''
+    date_start: '2021-05-10'
+    description: ''
+    # organization: Coursera
+    # organization_url: https://www.coursera.org
+    title: ASC 20-21 Final Round, 1st Prize
+  - date_end: ''
+    date_start: '2021-09-10'
+    description: ''
+    # organization: Coursera
+    # organization_url: https://www.coursera.org
+    title: CPC 21 Final Round, 3rd Prize
+  - date_end: ''
+    date_start: '2021-01-10'
+    title: ASC 20-21 Preliminary Round, 4th Place
+    # url: ''
+  - date_end: ''
+    date_start: '2020-09-10'
+    title: PAC 20, Application Track, 3rd Prize
+  - date_end: ''
+    date_start: '2020-09-10'
+    title: PAC 19, Application Track, 2nd Prize
+  # - date_end: ''
+  #   date_start: '2021-01-01'
+  #   # description: Formulated informed blockchain models, hypotheses, and use cases.
+  #   # organization: edX
+  #   organization_url: https://www.edx.org
+  #   title: Blockchain Fundamentals
+  #   # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  # - date_end: ''
+  #   date_start: '2020-07-01'
+  #   description: ''
+  #   # organization: DataCamp
+  #   organization_url: https://www.datacamp.com
+  #   title: 'Object-Oriented Programming in R'
+  #   url: ''
 
 design:
   columns: '2'

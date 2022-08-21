@@ -16,23 +16,23 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  email: mail@zjusct.io
+  # address:
+  #   street: 450 Serra Mall
+  #   city: Stanford
+  #   region: CA
+  #   postcode: '94305'
+  #   country: United States
+  #   country_code: US
+  # coordinates:
+  #   latitude: '37.4275'
+  #   longitude: '-122.1697'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
+      name: ZJUSCT
+      link: 'https://twitter.com/ZJUSCT'
 
 design:
   columns: '2'
