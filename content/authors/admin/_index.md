@@ -64,6 +64,6 @@ We participate in domestic and international SCC competitions, and provides some
 - Zeke Wang
 - Shuibing He
 
-## Members & Allumnis
+## Members & Alumnis
 
-Full list [here](/post/allumnis/).
+Full list [here](/post/alumnis/).

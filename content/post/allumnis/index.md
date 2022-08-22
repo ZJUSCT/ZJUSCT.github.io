@@ -1,5 +1,5 @@
 ---
-title: Allumnis
+title: Alumnis
 # subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -32,10 +32,10 @@ authors:
   - ZJUSCT
 
 tags:
-  - Allumnis
+  - Alumnis
 
 categories:
-  - Allumnis
+  - Alumnis
 ---
 
 |  姓名  | 毕业年份 | 去向分类 |             去向              |                备注                 |
