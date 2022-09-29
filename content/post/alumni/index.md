@@ -1,5 +1,5 @@
 ---
-title: Alumnis
+title: Alumni
 # subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -32,10 +32,10 @@ authors:
   - ZJUSCT
 
 tags:
-  - Alumnis
+  - Alumni
 
 categories:
-  - Alumnis
+  - Alumni
 ---
 
 |  姓名  | 毕业年份 | 去向分类 |             去向              |                备注                 |
@@ -56,8 +56,8 @@ categories:
 | 孙耀珠 |   2019   |          |             HKU PhD              |        求是科学班(计算机)       |
 | 菅浩然 |   2020   |          |             阿里巴巴         |        计算机科学与技术            |
 |  陈岩  |   2020   |  国内深造          ZJU 硕士              |          数字媒体技术             |
-| 袁谱博 |   2020   |          |                               |           信息安全                |
-| 俞炯弛 |   2021   |          |      SMU PhD               |      软件工程 计算机安全方向        |
+| 袁谱博 |   2020   |          |                               |         信息安全                |
+| 俞炯弛 |   2021   |          |      SMU PhD               |      计算机科学       |
 | 林柯舟 |   2021   |          |         ZJU 硕士                      |        计算机科学与技术     |
 | 漆翔宇 |   2021   |          |         Princeton PhD     |        计算机科学与技术          |
 | 夏豪诚 |   2021   |          |                               |       信息安全         |

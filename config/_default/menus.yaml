@@ -10,15 +10,15 @@ main:
   - name: Accomplishments
     url: '#accomplishments'
     weight: 20
-  - name: Alumnis
-    url: '/post/alumnis/'
-    weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Alumni
+    url: '/post/alumni/'
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60
