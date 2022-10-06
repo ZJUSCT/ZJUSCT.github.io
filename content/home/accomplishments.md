@@ -39,25 +39,40 @@ item:
   - date_end: ''
     date_start: '2021-05-10'
     description: ''
-    # organization: Coursera
-    # organization_url: https://www.coursera.org
     title: ASC 20-21 Final Round, 1st Prize
   - date_end: ''
     date_start: '2021-09-10'
     description: ''
-    # organization: Coursera
-    # organization_url: https://www.coursera.org
     title: CPC 21 Final Round, 3rd Prize
   - date_end: ''
     date_start: '2021-01-10'
     title: ASC 20-21 Preliminary Round, 4th Place
-    # url: ''
   - date_end: ''
     date_start: '2020-09-10'
     title: PAC 20, Application Track, 3rd Prize
   - date_end: ''
     date_start: '2020-09-10'
     title: PAC 19, Application Track, 2nd Prize
+  - date_end: ''
+    date_start: '2018-05-10'
+    description: ''
+    title: ASC 18 Final Round, 1st Prize
+  - date_end: ''
+    date_start: '2016-05-10'
+    description: ''
+    title: ASC 16 Final Round, e-Prize
+  - date_end: ''
+    date_start: '2016-05-10'
+    description: ''
+    title: ASC 16 Final Round, 1st Prize
+  - date_end: ''
+    date_start: '2015-05-10'
+    description: ''
+    title: ASC 15 Final Round, 1st Prize
+  - date_end: ''
+    date_start: '2014-05-10'
+    description: ''
+    title: ASC 14 Final Round, 1st Prize
   # - date_end: ''
   #   date_start: '2021-01-01'
   #   # description: Formulated informed blockchain models, hypotheses, and use cases.
