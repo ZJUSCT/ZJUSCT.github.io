@@ -62,6 +62,7 @@ We participate in domestic and international SCC competitions, and provides some
 
 - Jianhai Chen
 - Zeke Wang
+- Yin Zhang
 - Shuibing He
 
 ## Members & Alumni
