@@ -24,23 +24,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2023-05-11'
+    description: ''
+    title: 10th ASC Final Round, The Highest Linpack
+  - date_end: ''
+    date_start: '2023-05-11'
+    description: ''
+    title: 10th ASC Final Round, 1st Prize (4th Place)
+  - date_end: ''
+    date_start: '2022-12-02'
+    description: ''
+    title: ACM-China lPCC 22 Final Round, 3rd Prize (6th Place)
+  - date_end: ''
     date_start: '2022-11-18'
     description: ''
-    # organization: Coursera
-    # organization_url: https://www.coursera.org
-    title: SC 22 SCC, 3rd Place
+    title: SC 22 SCC, 4th Place
   - date_end: ''
     date_start: '2022-05-25'
     description: ''
-    # organization: Coursera
-    # organization_url: https://www.coursera.org
-    title: ISC 22, 5th Place
+    title: ISC 22 SCC, 5th Place
   - date_end: ''
     date_start: '2022-03-25'
     description: ''
-    # organization: Coursera
-    # organization_url: https://www.coursera.org
-    title: ASC 22 Preliminary Round, 1st Place
+    title: 10th ASC Preliminary Round, 1st Place
     # url: ''
   - date_end: ''
     date_start: '2021-05-10'
@@ -49,7 +55,7 @@ item:
   - date_end: ''
     date_start: '2021-09-10'
     description: ''
-    title: CPC 21 Final Round, 3rd Prize
+    title: CPC 21 Final Round, 3rd Prize (5th Place)
   - date_end: ''
     date_start: '2021-01-10'
     title: ASC 20-21 Preliminary Round, 4th Place
@@ -67,6 +73,10 @@ item:
     date_start: '2016-05-10'
     description: ''
     title: ASC 16 Final Round, e-Prize
+  - date_end: ''
+    date_start: '2016-05-10'
+    description: ''
+    title: ASC 16 Final Round, The Highest Linpack
   - date_end: ''
     date_start: '2016-05-10'
     description: ''
