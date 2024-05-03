@@ -24,6 +24,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2024-04-13'
+    description: ''
+    title: 11th ASC Final Round, The Highest Linpack
+  - date_end: ''
+    date_start: '2024-04-13'
+    description: ''
+    title: 11th ASC Final Round, 1st Prize (4th Place)
+  - date_end: ''
+    date_start: '2023-11-10'
+    description: ''
+    title: IndySCC 23, FIRST PLACE
+  - date_end: ''
     date_start: '2023-05-11'
     description: ''
     title: 10th ASC Final Round, The Highest Linpack
