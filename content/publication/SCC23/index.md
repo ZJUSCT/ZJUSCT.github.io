@@ -34,7 +34,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE Transactions on Parallel and Distributed Systems
+publication: In *IEEE Transactions on Parallel and Distributed Systems*
 # publication_short: In *ICW*
 
 abstract: In SC'21, Alexandros Nikolaos Ziogas et al. proposed a Data-Centric Python workflow in their DaCe paper. DaCe provides high productivity, performance, and portability with language extensions and automatic optimizations. We reproduce the performance evaluation results from the paper on both CPU and GPU on the Azure CycleCloud cluster. We also reproduce the scaling results with up to 32 nodes and 64 processes. Our results show that the proposed workflow in that paper has outstanding performance and scalability in the provided cluster, in accordance with the SC paper.
