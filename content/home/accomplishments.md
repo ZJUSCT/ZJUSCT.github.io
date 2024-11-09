@@ -26,7 +26,7 @@ item:
   - date_end: ''
     date_start: '2024-05-01'
     description: ''
-    title: ISC 23 SCC, 5th Place
+    title: ISC 24 SCC, 5th Place
   - date_end: ''
     date_start: '2024-04-13'
     description: ''
