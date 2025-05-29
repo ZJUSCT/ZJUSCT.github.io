@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: ''
+    date_start: '2025-05-15'
+    description: ''
+    title: 12th ASC Final Round, Application Innovation Award
+  - date_end: ''
+    date_start: '2025-05-15'
+    description: ''
+    title: 12th ASC Final Round, 1st Prize (4th Place)
+  - date_end: ''
     date_start: '2024-05-01'
     description: ''
     title: ISC 24 SCC, 5th Place
