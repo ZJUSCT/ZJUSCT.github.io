@@ -26,11 +26,11 @@ item:
   - date_end: ''
     date_start: '2025-05-15'
     description: ''
-    title: 12th ASC Final Round, Application Innovation Award
+    title: ASC25 Final Round, Application Innovation Award
   - date_end: ''
     date_start: '2025-05-15'
     description: ''
-    title: 12th ASC Final Round, 1st Prize (4th Place)
+    title: ASC25 Final Round, 1st Prize (4th Place)
   - date_end: ''
     date_start: '2024-05-01'
     description: ''
@@ -38,11 +38,11 @@ item:
   - date_end: ''
     date_start: '2024-04-13'
     description: ''
-    title: 11th ASC Final Round, The Highest Linpack
+    title: ASC24 Final Round, The Highest Linpack
   - date_end: ''
     date_start: '2024-04-13'
     description: ''
-    title: 11th ASC Final Round, 1st Prize (4th Place)
+    title: ASC24 Final Round, 1st Prize (4th Place)
   - date_end: ''
     date_start: '2023-11-10'
     description: ''
